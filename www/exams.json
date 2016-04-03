@@ -52,24 +52,24 @@
   },
   "ecs621u": {
     "name": "Software Risk Assessment",
-    "timestamp": "Unknown", //2015-04-29T14:30:00+01:00",
+    "timestamp": "Unknown", 
     "venue": "TBC"
   },
   "ecs631u": {
     "name": "Computability",
-    "timestamp": "Unknown", //2015-04-29T14:30:00+01:00",
+    "timestamp": "Unknown",
     "venue": "TBC",
     "googleMapsUrl": "..."
   },
   "ecs624u": {
     "name": "C++ for Image Processing",
-    "timestamp": "Unknown", //2015-04-29T14:30:00+01:00",
+    "timestamp": "Unknown", 
     "venue": "TBC",
     "googleMapsUrl": "..."
   },
   "ecs629u": {
     "name": "Artificial Intelligence",
-    "timestamp": "Unknown", //2015-04-29T14:30:00+01:00",
+    "timestamp": "Unknown", 
     "venue": "TBC"
   }
 }
