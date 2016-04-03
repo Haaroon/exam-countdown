@@ -1,10 +1,15 @@
 #Exam Countdown
 A small and low-powered website that keeps track of your upcoming exams
 
+Most recent exams are shown first
+
+As exams are passed they are automatically crossed off with a strikeout
+
 #Usage
 Simply fork the files, and edit the www/exams.json file to include your exams
 
 ## Format required is as follows
+Ensure exams are in chronological order (first exams first, last is last)
 ```
 {
   "MODULE-COURSE-CODE": {
