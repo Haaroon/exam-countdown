@@ -13,12 +13,12 @@ $('document').ready(function() {
     "ecs607u": {
       "name": "Data Mining",
       "timestamp": "2016-05-17T14:30:00+01:00",
-      "venue": "tbc"
+      "venue": "tbc",
     },
     "ecs608u": {
       "name": "Distributed Systems and Security",
       "timestamp": "2016-05-23T10:00:00+01:00",
-      "venue": "TBC"
+      "venue": "TBC",
     },
     "ecs637u": {
       "name": "Digital Media and Social Networks",
@@ -28,9 +28,8 @@ $('document').ready(function() {
     "ecs639u": {
       "name": "Web Programming",
       "timestamp": "2016-06-02T10:00:00+01:00",
-      "venue": "TBC"
+      "venue": "TBC",
     },
-
     "ecs613u": {
       "name": "Advanced Database Systems",
       "timestamp": "Unknown",
@@ -39,7 +38,7 @@ $('document').ready(function() {
     "ecs612u": {
       "name": "Interaction Design",
       "timestamp": "Unknown",
-      "venue": "TBC"
+      "venue": "TBC",
     },
     "ecs610u": {
       "name": "Computer Graphics",
@@ -49,7 +48,7 @@ $('document').ready(function() {
     "ecs621u": {
       "name": "Software Risk Assessment",
       "timestamp": "Unknown",
-      "venue": "TBC"
+      "venue": "TBC",
     },
     "ecs631u": {
       "name": "Computability",
@@ -64,7 +63,7 @@ $('document').ready(function() {
     "ecs629u": {
       "name": "Artificial Intelligence",
       "timestamp": "Unknown",
-      "venue": "TBC"
+      "venue": "TBC",
     }
   };
          
@@ -149,9 +148,9 @@ $('document').ready(function() {
     } else if (exam.timeDifference === 1) {
       difference = 'Tomorrow';
     } else if (exam.timeDifference === -1) {
-      difference = 'did it yesterday';
+      difference = 'did it yesterdayzzz';
     } else {
-      difference = exam.timeDifference < -1 ? 'did it ' + Math.abs(exam.timeDifference) + ' days ago' : 'in ' + exam.timeDifference + ' days';
+      difference = exam.timeDifference < -1 ? 'did it OMG ' + Math.abs(exam.timeDifference) + ' days ago' : 'in ' + exam.timeDifference + ' days';
     }
 
     div.append(
