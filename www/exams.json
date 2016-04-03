@@ -3,13 +3,11 @@
 		"name": "Big Data Processing",
 		"timestamp": "2016-05-10T10:00:00+01:00",
 		"venue": "tbc",
-		"googleMapsUrl": "..."
 	},
 	"ecs634u": {
 		"name": "Algorithms and Complexity",
 		"timestamp": "2016-05-12T10:00:00+01:00",
 		"venue": "tbc",
-		"googleMapsUrl": "..."
 	},
 	"ecs607u": {
 		"name": "Data Mining",
@@ -25,7 +23,6 @@
 		"name": "Digital Media and Social Networks",
 		"timestamp": "2016-05-31T10:00:00+01:00",
 		"venue": "TBC",
-		"googleMapsUrl": "..."
 	},
 	"ecs639u": {
 		"name": "Web Programming",
@@ -37,7 +34,6 @@
 		"name": "Advanced Database Systems",
 		"timestamp": "Unknown",
 		"venue": "TBC",
-		"googleMapsUrl": "..."
 	},
 	"ecs612u": {
 		"name": "Interaction Design",
@@ -48,7 +44,6 @@
 		"name": "Computer Graphics",
 		"timestamp": "Unknown",
 		"venue": "TBC",
-		"googleMapsUrl": "..."
 	},
 	"ecs621u": {
 		"name": "Software Risk Assessment",
@@ -59,13 +54,11 @@
 		"name": "Computability",
 		"timestamp": "Unknown",
 		"venue": "TBC",
-		"googleMapsUrl": "..."
 	},
 	"ecs624u": {
 		"name": "C++ for Image Processing",
 		"timestamp": "Unknown",
 		"venue": "TBC",
-		"googleMapsUrl": "..."
 	},
 	"ecs629u": {
 		"name": "Artificial Intelligence",
